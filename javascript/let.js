@@ -1,0 +1,10 @@
+
+console.log(x);
+{
+    x = 3;
+    console.log(x);
+}
+
+var x = 5;
+
+console.log(x);
